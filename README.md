@@ -14,4 +14,3 @@ Before use, the user must create three folders in the same directory as ann.py, 
 
 ## Details:
 Made using python 3.10
-Apache 2.0 License
